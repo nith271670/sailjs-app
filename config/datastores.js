@@ -57,7 +57,7 @@ module.exports.datastores = {
   },
   mongodb:{
     adapter: 'sails-mongo',
-    url: 'mongodb://<dbuser>:<dbpassword>@ds027348.mlab.com:27348/sailsmongo' //'mongodb://localhost:27017/sailsmongo'
+    url: 'mongodb://nith271670:December@2018>@ds027348.mlab.com:27348/sailsmongo' 
   },
 
 
