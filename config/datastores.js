@@ -53,11 +53,12 @@ module.exports.datastores = {
 
     // adapter: 'sails-mysql',
     // url: 'mysql://user:password@host:port/database',
+    //'mongodb://localhost:27017/sailsmongo'
 
   },
   mongodb:{
     adapter: 'sails-mongo',
-    url: 'mongodb://nith271670:December@2018>@ds027348.mlab.com:27348/sailsmongo' 
+    url: 'mongodb://nith271670:Nimi123@ds027348.mlab.com:27348/sailsmongo' ,
   },
 
 
